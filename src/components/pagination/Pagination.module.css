@@ -1,0 +1,14 @@
+.pagination {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+
+
+.number {
+    display: flex;
+    padding: 5px;
+    width: 5%;
+    border: 2px solid blue;
+    justify-content: center;
+}

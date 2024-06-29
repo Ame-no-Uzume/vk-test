@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+}
+
+.comments {
+    margin-top: 20px;
+    text-align: center;
+}
